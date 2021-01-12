@@ -8,3 +8,15 @@ I am Harika, currently pursuing my masters in Computer Science at NorthWest Miss
 
 ## Languages
 - Github Markdown
+
+## Technical skills:
+- Languages: JAVA,HTML,CSS,Javascript
+- Versioning Tools:Bit Bucket,GIT
+- Automation Tools:JUnit,Load Runner,Selenium
+- BugTracking Tools:JIRA, Quality Center (QC), TestRail, Bugzilla
+
+## Professional Experience:
+- Worked as a Associate Test Engineer for Computer Science Corporation for 4+ years.
+
+### Linked Profile
+- My Linkedin Profile Link :[Profile Link](https://www.linkedin.com/feed/)
