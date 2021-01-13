@@ -15,7 +15,7 @@ Hello,I am Harika, currently pursuing my masters in Computer Science at NorthWes
 - Automation Tools:JUnit,Load Runner,Selenium
 - BugTracking Tools:JIRA, Quality Center (QC), TestRail, Bugzilla
 
-## Professional Experience:
+## Professional Experience::briefcase:
 - Worked as a Associate Test Engineer for Computer Science Corporation for 4+ years.
 
 ## Education::woman_student:
