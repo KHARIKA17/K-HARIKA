@@ -9,7 +9,7 @@ Hello,I am Harika, currently pursuing my masters in Computer Science at NorthWes
 ## Languages
 - Github Markdown
 
-## Technical skills:
+## Technical skills::computer:
 - Languages: JAVA,HTML,CSS,Javascript
 - Versioning Tools:Bit Bucket,GIT
 - Automation Tools:JUnit,Load Runner,Selenium
