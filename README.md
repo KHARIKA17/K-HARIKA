@@ -16,7 +16,11 @@ Hello,I am Harika, currently pursuing my masters in Computer Science at NorthWes
 - BugTracking Tools:JIRA, Quality Center (QC), TestRail, Bugzilla
 
 ## Professional Experience::briefcase:
-- Worked as a Associate Test Engineer for Computer Science Corporation for 4+ years.
+- Worked as a Associate Test Engineer for Computer Science Corporation for 4+ years,where I gained 
+-	Good experience in Performance Testing, Functional Testing and Regression Testing using automated testing tools including Selenium, JMeter.
+- Good experience in various domains like Banking, Entertainment, Healthcare and Retail.
+- Experience in testing the products using SQL Queries/Unix command for the DB check and server start-up /new builds. 
+
 
 ## Education::woman_student:
 -	Graduated in Bachelors of Technology,from Sri Devi Women’s Engineering College with 71.18% in Computer Science and Engineering (CSE).
