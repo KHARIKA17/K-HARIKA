@@ -13,7 +13,7 @@ Hello,I am Harika, currently pursuing my masters in Computer Science at NorthWes
 - Java
 - SQL
 
-## Technical skills::computer:
+## Tools::computer:
 - Versioning Tools:Bit Bucket,GIT
 - Automation Tools:JUnit,Load Runner,Selenium
 - BugTracking Tools:JIRA, Quality Center (QC), TestRail, Bugzilla
