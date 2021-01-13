@@ -18,7 +18,7 @@ Hello,I am Harika, currently pursuing my masters in Computer Science at NorthWes
 ## Professional Experience:
 - Worked as a Associate Test Engineer for Computer Science Corporation for 4+ years.
 
-## Education:
+## Education::woman_student:
 -	Graduated in Bachelors of Technology,from Sri Devi Women’s Engineering College with 71.18% in Computer Science and Engineering (CSE).
 -	Intermediate/High School: Narayana Junior College with 92.1 % 
 -	Schooling: Completed from Jyothi Vidyalaya High School with aggregate of 84.5% 
