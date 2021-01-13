@@ -3,10 +3,10 @@
 ## About me:
 Hello,I am Harika, currently pursuing my masters in Computer Science at NorthWest Missouri State University.I am from Hyderabad,India.I did my schooling in Hyderabad itself.I graduated from SriDevi Womens Engineering college,Hyderabad,then I worked for Computer Science Corporation for 4+ years as Associate Test Engineer.After completion of Masters degree,My goal is to get a good job as Front End developer in reputed company.My hobbies include playing games,listening to music and drwaing.
 
-## Collaboration
+## Collaboration:
 - Github profile/Repo: [RepoLink](https://github.com/KHARIKA17/K-HARIKA/edit/main/README.md)
 
-## Languages
+## Languages:
 - HTML
 - CSS
 - Javascript
@@ -30,5 +30,5 @@ Hello,I am Harika, currently pursuing my masters in Computer Science at NorthWes
 -	Intermediate/High School: Narayana Junior College with 92.1 % 
 -	Schooling: Completed from Jyothi Vidyalaya High School with aggregate of 84.5% 
 
-### Linked Profile
+### Linked Profile:
 - My Linkedin Profile Link :[Profile Link](https://www.linkedin.com/feed/)
