@@ -7,10 +7,13 @@ Hello,I am Harika, currently pursuing my masters in Computer Science at NorthWes
 - Github profile/Repo: [RepoLink](https://github.com/KHARIKA17/K-HARIKA/edit/main/README.md)
 
 ## Languages
-- Github Markdown
+- HTML
+- CSS
+- Javascript
+- Java
+- SQL
 
 ## Technical skills::computer:
-- Languages: JAVA,HTML,CSS,Javascript
 - Versioning Tools:Bit Bucket,GIT
 - Automation Tools:JUnit,Load Runner,Selenium
 - BugTracking Tools:JIRA, Quality Center (QC), TestRail, Bugzilla
