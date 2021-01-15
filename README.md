@@ -4,14 +4,19 @@
 Hello,I am Harika, currently pursuing my masters in Computer Science at NorthWest Missouri State University.I am from Hyderabad,India.I did my schooling in Hyderabad itself.I graduated from SriDevi Womens Engineering college,Hyderabad,then I worked for Computer Science Corporation for 4+ years as Associate Test Engineer.After completion of Masters degree,My goal is to get a good job as Front End developer in reputed company.My hobbies include playing games,listening to music and drwaing.
 
 ## Collaboration:
-- Github profile/Repo: [RepoLink](https://github.com/KHARIKA17/K-HARIKA/edit/main/README.md)
+- Git Create
+- Git Clone
+- Git Push
 
 ## Languages:
 - HTML
 - CSS
-- Javascript
+- JavaScript
 - Java
 - SQL
+
+## Publishing:
+- Heroku
 
 ## Tools::computer:
 - Versioning Tools:Bit Bucket,GIT
